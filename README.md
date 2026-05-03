@@ -512,7 +512,7 @@ await pool.query(`SELECT * FROM users WHERE email = '${email}'`);
 
 ## Author
 
-**Osama Alsrraj** — Backend & Distributed Systems Engineer  
+**Osama Alsrraj** — Full-Stack Enginner  
 Focus: Performance, Scaling, Secure Systems
 
 ---
